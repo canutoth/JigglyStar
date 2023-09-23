@@ -1,0 +1,1 @@
+oi, prof! só pra pedir pra rodar em outro compilador tipo vscode, pq aqui no replit o pulo do bichinho parece estar baixo, quando na real é por causa da taxa de atualização (acho), já que funciona em outros compiladores (:
